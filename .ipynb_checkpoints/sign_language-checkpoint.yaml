@@ -1,0 +1,6 @@
+
+train: D:\Sanjay\PROJECTS\SIGN-LANG-DETECTION\data\train\images  
+val: D:\Sanjay\PROJECTS\SIGN-LANG-DETECTION\data\test\images    
+
+nc: 5  
+names: ["Hello", "I Love You", "No", "Thank You", "Yes"]
